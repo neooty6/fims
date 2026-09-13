@@ -1,0 +1,22 @@
+{
+  "entity.abyssalreign.grave_stalker": "Grave Stalker",
+  "item.abyssalreign.grave_stalker_spawn_egg": "Grave Stalker Spawn Egg",
+  "entity.abyssalreign.rotfang": "Rotfang",
+  "item.abyssalreign.rotfang_spawn_egg": "Rotfang Spawn Egg",
+  "entity.abyssalreign.hollow_knight": "Hollow Knight",
+  "item.abyssalreign.hollow_knight_spawn_egg": "Hollow Knight Spawn Egg",
+  "entity.abyssalreign.blood_maw": "Blood Maw",
+  "item.abyssalreign.blood_maw_spawn_egg": "Blood Maw Spawn Egg",
+  "entity.abyssalreign.wraithling": "Wraithling",
+  "item.abyssalreign.wraithling_spawn_egg": "Wraithling Spawn Egg",
+  "entity.abyssalreign.mire_crawler": "Mire Crawler",
+  "item.abyssalreign.mire_crawler_spawn_egg": "Mire Crawler Spawn Egg",
+  "entity.abyssalreign.void_leaper": "Void Leaper",
+  "item.abyssalreign.void_leaper_spawn_egg": "Void Leaper Spawn Egg",
+  "entity.abyssalreign.fleshbound": "Fleshbound",
+  "item.abyssalreign.fleshbound_spawn_egg": "Fleshbound Spawn Egg",
+  "entity.abyssalreign.dread_sovereign": "Dread Sovereign",
+  "item.abyssalreign.dread_sovereign_spawn_egg": "Dread Sovereign Spawn Egg",
+  "entity.abyssalreign.abyss_warden": "Abyss Warden",
+  "item.abyssalreign.abyss_warden_spawn_egg": "Abyss Warden Spawn Egg"
+}

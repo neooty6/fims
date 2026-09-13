@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "abyssalreign",
+  "version": "${version}",
+  "name": "Abyssal Reign",
+  "description": "Eight strange monsters and two powerful bosses for Minecraft 1.20.1 Fabric.",
+  "authors": [
+    "ayafps"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ayafps.abyssalreign.AbyssalReign"
+    ],
+    "client": [
+      "com.ayafps.abyssalreign.AbyssalReignClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "fabric-api": ">=0.92.12+1.20.1"
+  }
+}
