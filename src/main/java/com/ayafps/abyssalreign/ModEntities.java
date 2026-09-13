@@ -59,7 +59,8 @@ public final class ModEntities {
     private static DefaultAttributeContainer.Builder attributes() {
         return MobEntity.createMobAttributes()
                 .add(EntityAttributes.GENERIC_ARMOR, 0.0)
-                .add(EntityAttributes.GENERIC_KNOCKBACK_RESISTANCE, 0.0);
+                .add(EntityAttributes.GENERIC_KNOCKBACK_RESISTANCE, 0.0)
+                .add(EntityAttributes.GENERIC_ATTACK_DAMAGE, 2.0);
     }
 
     public static void registerAttributes() {
